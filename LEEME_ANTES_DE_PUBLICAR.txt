@@ -1,0 +1,46 @@
+LAURA RAIDEN COACH — NUEVA WEB DE PRUEBA
+Fecha: 27/08/2026
+
+IMPORTANTE
+- Este paquete NO modifica la web pública actual.
+- No cambiar todavía el DNS ni www.lauraraiden.com.
+- El Espacio Privado sigue apuntando a:
+  https://sites.google.com/lauraraiden.com/laura-raiden-privado/inicio
+
+CONTENIDO
+- index.html
+- empresas-agro/
+- ventas/
+- liderazgo/
+- sobre-laura/
+- bienestar/
+- contacto/
+- assets/
+- robots.txt
+- sitemap.xml
+- CNAME
+- 404.html
+
+SEO YA INCLUIDO
+- Títulos y metadescripciones por página.
+- Canonical URLs.
+- Open Graph.
+- JSON-LD básico.
+- sitemap.xml y robots.txt.
+- URLs preparadas para www.lauraraiden.com.
+- Diseño mobile responsive.
+
+CONVERSIÓN
+- WhatsApp: +54 9 358 490 3227
+- Email: coach@lauraraiden.com
+- Mensajes distintos según intención.
+
+PENDIENTE ANTES DEL LANZAMIENTO
+1. Incorporar caso Michelin / Diesel Lange con fotos, reporte y testimonio autorizado.
+2. Revisión visual y ortográfica final.
+3. Probar todas las páginas y botones en celular y escritorio.
+4. Publicar primero en una URL temporal.
+5. Sólo después de aprobarla, apuntar www.lauraraiden.com a la nueva web.
+
+PUBLICACIÓN RECOMENDADA
+GitHub Pages, sin costo mensual adicional de hosting para este sitio estático.

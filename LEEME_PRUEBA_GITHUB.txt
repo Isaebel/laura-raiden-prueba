@@ -1,0 +1,10 @@
+PAQUETE DE PRUEBA PARA GITHUB PAGES
+
+- NO contiene CNAME.
+- NO modifica www.lauraraiden.com.
+- Todas las páginas están marcadas noindex/nofollow.
+- robots.txt bloquea rastreo.
+- Incluye .nojekyll para publicar como sitio HTML estático.
+
+Para publicar en GitHub, descomprimir este ZIP y subir EL CONTENIDO de la carpeta
+a la raíz del repositorio, de modo que index.html quede en la raíz.
